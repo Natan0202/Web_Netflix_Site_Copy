@@ -1,0 +1,42 @@
+body{
+    background: rgba(0, 0, 0, 0.938);
+
+}
+header{
+    
+}
+section{
+    text-align: center;
+    font-style: normal;
+
+}
+footer{
+   
+
+}
+img#netflix{
+    width: 110px;
+    height: 80px;
+    padding-left: 40px;
+}
+h1{
+    color: white;
+    font-family: Helvetica;
+    font-weight: 1.2;
+    font-display: optional;
+}
+div.box{
+    width: 150px;
+    display: inline-block;
+    width: 136px;
+    height: 136px;
+    border: 3px solid rgba(7, 0, 0, 0.185);
+    margin: 5px;
+    
+}
+span{
+    font-family: Helvetica;
+    color: rgb(92, 86, 86);
+    padding-top: 10px;
+}
+    
